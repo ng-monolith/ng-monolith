@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Angular Developer
 -----------------
 
-Welcome to my GitHub page! My name is Damian Kacprzak and I am a Frontend Developer with a passion for programming. I have a solid knowledge of technologies such as JavaScript, Angular, Material and Sass. Although I specialize in frontend programming, I am also interested in the backend and would like to try my hand at Node.js in the future. I am motivated to constantly improve my skills and grow, which allows me to be the best at what I do. Striving to be the best at what I do not only drives my career, but also inspires me to share the knowledge and experience I have gained with the development community. I believe that the open exchange of ideas and collaboration can lead to remarkable innovations and solutions to the problems we encounter every day in the world of technology.
+Welcome to my GitHub page! My name is Damian Kacprzak and I am a Frontend Developer with a passion for programming. I have a solid knowledge of technologies such as JavaScript, Angular, Material and Sass. Although I specialize in frontend programming, I am also interested in the backend and would like to try my hand at Node.js in the future.
+
+I am motivated to constantly improve my skills and grow, which allows me to be the best at what I do. Striving to be the best at what I do not only drives my career, but also inspires me to share the knowledge and experience I have gained with the development community. I believe that the open exchange of ideas and collaboration can lead to remarkable innovations and solutions to the problems we encounter every day in the world of technology.
 
 * 🌍  I'm based in Szczecinek, Poland
 * 🖥️  See my portfolio at [Portfolio](http://github.com/ng-monolith?tab=repositories)
